@@ -1,4 +1,4 @@
-module pkcs
+module github.com/nichtsen/pkcs
 
 go 1.14
 
